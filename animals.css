@@ -1,0 +1,45 @@
+body {
+     font-family: "Lobster Two";
+     background: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pdrousseau-04rob-job582-2.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=65ad8441df91ab0ae05f48f439fb99fd);
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 100%;
+}
+
+label {
+     color: red;
+     font-size:15pt;
+}
+
+h1 {
+     color: white;
+     font-size: 50px;
+     font-family: "Lobster";
+     font-weight: 100;
+}
+
+#animal_name {
+     width: 200px;
+     height: 35px;
+     border-radius: 5px;
+     font-size: 15px;
+}
+
+#output{
+     border-style: dotted;
+     width:350px;
+     height: 200px;
+}
+
+h3 {
+     font-size:30px;
+}
+
+#btn{
+     background-color: #dcc7ae;
+     width: 150px;
+     height: 40px;
+     font-size: 30px;
+     font-family: Lobster Two;
+     border-radius: 30px;
+}
